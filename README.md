@@ -1,18 +1,6 @@
-- Hi, I’m @tyrleng
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-:smiley:  👋 
-
-:wave:
-
-👋 
-
-https://github-readme-stats.vercel.app/api?username=tyrleng&count_private=true&show_icons=true&theme=radical&hide_rank=false
-
-<!---
-tyrleng/tyrleng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently working on Karsten, a personal finance accounting software!
+The inspiration came by desiring features that GnuCash lacks / implements poorly in my opinion.  
+Gnucash is a personal/small business finance application and works fine for most simple uses cases.  
+However, features like entering cross currency transactions (eg HKD to SGD) are complicated/bugged, and entering investment purchases are a pain too.  
+So I started Karsten to create a GnuCash mostly lookalike with my personal take.  
+*In Development, socket programming, Qt and C++ proving much harder than anticipated :persevere: *
